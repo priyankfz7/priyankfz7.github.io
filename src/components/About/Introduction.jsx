@@ -1,6 +1,5 @@
 import React from "react";
 import "./Introduction.css";
-import priyank from "../../Assets/images/priyankfz7.png";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import { ThemeContext } from "../../Context/theme";
 import resume from "../../Assets/pdf/Priyank_Gupta_Resume.pdf";
@@ -58,11 +57,12 @@ export const Introduction = () => {
                   // onClick={toggleNavList}
                   // className="link link--nav"
                   download="Priyank Gupta - Resume"
-                  target="_blank"
-                  rel="noreferrer"
+                // target="_blank"
+                // rel="noreferrer"
                 >
                   <button
                     style={{ backgroundColor: " #80618c", color: "white" }}
+                    onClick={() => handleresume(resume)}
                   >
                     Resume
                   </button>

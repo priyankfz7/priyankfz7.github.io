@@ -88,13 +88,13 @@ export const Navbar = () => {
           <li className="nav__list-item">
             <a
               href={resume}
-              onClick={toggleNavList}
+              //onClick={toggleNavList}
               className="link link--nav"
               download='Priyank Gupta -Resume'
               target="_blank"
               rel="noreferrer"
             >
-              <button >Resume</button>
+              <button onClick={() => handleResume(resume)}>Resume</button>
             </a>
           </li>
         </ul>

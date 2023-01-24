@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2543a7db.css",
-    "main.js": "/static/js/main.d5f9dafa.js",
+    "main.css": "/static/css/main.71969577.css",
+    "main.js": "/static/js/main.8eb0fc0c.js",
     "static/media/Gymwolf.png": "/static/media/Gymwolf.3bb0471789d741ae6378.png",
     "static/media/unit5_project.png": "/static/media/unit5_project.428f7a40cfdfb3acb45b.png",
     "static/media/uboric.png": "/static/media/uboric.abad10c26d7ec446006d.png",
     "static/media/List.png": "/static/media/List.0a516ef27346fa9c4fc0.png",
+    "static/media/Unit_6_project.png": "/static/media/Unit_6_project.03f883cfe9128defc97f.png",
     "static/media/Priyank_Gupta_Resume.pdf": "/static/media/Priyank_Gupta_Resume.a7d50b4d9c2c095f1396.pdf",
-    "static/media/priyankfz7.png": "/static/media/priyankfz7.cf82e8264af7c1c97abe.png",
     "static/media/eduPurple.svg": "/static/media/eduPurple.b06b4e8eda03db2a97b1fa88860ea0fa.svg",
     "static/media/eduImgBlack.svg": "/static/media/eduImgBlack.8ee2e691e27f81b89b1aa08acc85cfe6.svg",
     "index.html": "/index.html",
-    "main.2543a7db.css.map": "/static/css/main.2543a7db.css.map",
-    "main.d5f9dafa.js.map": "/static/js/main.d5f9dafa.js.map"
+    "main.71969577.css.map": "/static/css/main.71969577.css.map",
+    "main.8eb0fc0c.js.map": "/static/js/main.8eb0fc0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2543a7db.css",
-    "static/js/main.d5f9dafa.js"
+    "static/css/main.71969577.css",
+    "static/js/main.8eb0fc0c.js"
   ]
 }

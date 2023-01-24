@@ -14,8 +14,8 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right">
-          <span className="about__hi"> Hi, I am </span>
-          <span className="about__name">Priyank Gupta</span>
+          <span className="about__hi"> Hi, I am  </span>
+          <span className="about__name" style={{ color: "white" }}>Priyank Gupta</span>
         </h1>
         {/* <Type /> */}
         <span data-aos="fade-right" >Full Stack Developer</span>

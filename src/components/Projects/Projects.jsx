@@ -1,6 +1,8 @@
 import React from "react";
 import "./Projects.css";
 import unit5_project from "../../Assets/images/unit5_project.png";
+import Unit_6_project from "../../Assets/images/Unit_6_project.png";
+
 import uboric from "../../Assets/images/uboric.png";
 import List from "../../Assets/images/List.png"
 import gymwolf from "../../Assets/images/Gymwolf.png"
@@ -23,6 +25,85 @@ export const Projects = () => {
         <h2 className="section__title different" data-aos="fade-right">
           Projects
         </h2>
+        <div className="projects_container">
+          <div className="project">
+            <div className="project_videocontainer">
+              <div data-aos="fade-right">
+                <img
+                  src={Unit_6_project}
+                  alt=" nordstrom"
+
+
+                />
+              </div>
+            </div>
+            <div className="project_information" data-aos="fade-right">
+              <h2>Shop Karo Clone</h2>
+              <p>
+                Shop Karo.com is an e-commerce website which offerse  clothing products for mens and women inspired by paytm-mall.
+
+                <p style={{ color: "#80618c", marginTop: "30px" }}>Tech Stack</p>
+
+              </p>
+
+              <div className="projects_techsection">
+
+
+
+                <div>
+                  <FaReact />
+                  <h5>React JS</h5>
+                </div>
+                <div>
+                  <SiHtml5 />
+                  <h5>HTML</h5>
+                </div>
+
+                <div>
+                  <SiCss3 />
+                  <h5>CSS</h5>
+                </div>
+                <div>
+                  <SiJavascript />
+                  <h5>JS</h5>
+                </div>
+                <div>
+                  <SiExpress />
+                  <h5>Express</h5>
+                </div>
+                <div>
+                  <SiMongodb />
+                  <h5>Mongodb</h5>
+                </div>
+
+
+
+
+              </div>
+
+              <div>
+                <a
+                  href="https://cw-5.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline onbt">
+                    See this Live
+                  </span>
+                </a>
+                <a
+                  href="https://github.com/priyankfz7/Shop_Karo_Clone"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline">
+                    View Code
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div className="projects_container">
           <div className="project">
