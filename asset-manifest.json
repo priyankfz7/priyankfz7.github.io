@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.78e3f478.css",
-    "main.js": "/static/js/main.84f62099.js",
+    "main.css": "/static/css/main.8fbf9952.css",
+    "main.js": "/static/js/main.3b6e77ef.js",
     "static/media/aus.png": "/static/media/aus.2542d1c33e9e1520d8f2.png",
     "static/media/unit5_project.png": "/static/media/unit5_project.428f7a40cfdfb3acb45b.png",
     "static/media/fp-1.png": "/static/media/fp-1.50ecbfabdfa26ede3585.png",
     "static/media/List.png": "/static/media/List.0a516ef27346fa9c4fc0.png",
     "static/media/Unit_6_project.png": "/static/media/Unit_6_project.03f883cfe9128defc97f.png",
-    "static/media/Priyank_Gupta_Resume.pdf": "/static/media/Priyank_Gupta_Resume.f5202302401ae003cde2.pdf",
     "static/media/priyank-t.png": "/static/media/priyank-t.8000683296541fadc45d.png",
     "static/media/jaggi.png": "/static/media/jaggi.d403f373f29fe87d3706.png",
+    "static/media/Priyank_Gupta_Resume.pdf": "/static/media/Priyank_Gupta_Resume.0209e332bc4a56292379.pdf",
     "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "index.html": "/index.html",
-    "main.78e3f478.css.map": "/static/css/main.78e3f478.css.map",
-    "main.84f62099.js.map": "/static/js/main.84f62099.js.map"
+    "main.8fbf9952.css.map": "/static/css/main.8fbf9952.css.map",
+    "main.3b6e77ef.js.map": "/static/js/main.3b6e77ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.78e3f478.css",
-    "static/js/main.84f62099.js"
+    "static/css/main.8fbf9952.css",
+    "static/js/main.3b6e77ef.js"
   ]
 }
