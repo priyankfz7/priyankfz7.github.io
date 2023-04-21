@@ -21,7 +21,7 @@ const Freelance = () => {
           des="Bala Classes is a 15 years old coaching classes for accounts and economics.I built a responsive and user-friendly website using HTML5, CSS3 and  JavaScript also provide them a admin panel ( Made with Node, Mongodb and react ) for uploading study material"
           src={fp1}
           github="https://github.com/priyankfz7/bala-webpage.git"
-          live="http://balaclasses.com/"
+          live="https://balaclasses.com/"
           ts={["HTML", "CSS", "JS", "Node", "Mongo"]}
         />
         <ProjectsCard
