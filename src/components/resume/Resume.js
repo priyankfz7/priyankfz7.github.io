@@ -4,6 +4,7 @@ import Education from "./Education";
 import Skills from "./Skills";
 import Achievement from "./Achievement";
 import Experience from "./Experience";
+import { resume } from "../../assets";
 
 const Resume = () => {
   const [educationData, setEducationData] = useState(true);
@@ -46,6 +47,11 @@ const Resume = () => {
             Professional Skills
           </li>
         </ul>
+        <a href={resume} download="Priyank Gupta - Resume">
+          <button className="pt-2 pb-2 pl-4 pr-4  mt-4 bg-designColor text-white mr-3 rounded-md text-lg">
+            Download Resume
+          </button>
+        </a>
       </div>
       {educationData && <Education />}
       {skillData && <Skills />}
