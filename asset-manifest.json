@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fbf9952.css",
-    "main.js": "/static/js/main.3b6e77ef.js",
+    "main.css": "/static/css/main.b34bc452.css",
+    "main.js": "/static/js/main.b14c388f.js",
     "static/media/aus.png": "/static/media/aus.2542d1c33e9e1520d8f2.png",
     "static/media/unit5_project.png": "/static/media/unit5_project.428f7a40cfdfb3acb45b.png",
     "static/media/fp-1.png": "/static/media/fp-1.50ecbfabdfa26ede3585.png",
@@ -10,14 +10,15 @@
     "static/media/priyank-t.png": "/static/media/priyank-t.8000683296541fadc45d.png",
     "static/media/jaggi.png": "/static/media/jaggi.d403f373f29fe87d3706.png",
     "static/media/Priyank_Gupta_Resume.pdf": "/static/media/Priyank_Gupta_Resume.0209e332bc4a56292379.pdf",
+    "static/media/codepencil.png": "/static/media/codepencil.51fc8395324448f8b087.png",
     "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "index.html": "/index.html",
-    "main.8fbf9952.css.map": "/static/css/main.8fbf9952.css.map",
-    "main.3b6e77ef.js.map": "/static/js/main.3b6e77ef.js.map"
+    "main.b34bc452.css.map": "/static/css/main.b34bc452.css.map",
+    "main.b14c388f.js.map": "/static/js/main.b14c388f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fbf9952.css",
-    "static/js/main.3b6e77ef.js"
+    "static/css/main.b34bc452.css",
+    "static/js/main.b14c388f.js"
   ]
 }
