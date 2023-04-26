@@ -7,6 +7,7 @@ import jaggi from "./images/testmonial/jaggi.png";
 import aus from "./images/testmonial/aus.png";
 import unit6 from "./images/projects/Unit_6_project.png";
 import unit5 from "./images/projects/unit5_project.png";
+import codepencil from "./images/projects/codepencil.png";
 import list from "./images/projects/List.png";
 import resume from "./pdf/Priyank_Gupta_Resume.pdf";
 export {
@@ -21,4 +22,5 @@ export {
   unit5,
   list,
   resume,
+  codepencil,
 };

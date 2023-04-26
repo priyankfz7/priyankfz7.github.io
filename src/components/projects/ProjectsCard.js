@@ -1,6 +1,16 @@
 import React from "react";
 import { BsGithub } from "react-icons/bs";
 import { FaGlobe } from "react-icons/fa";
+const colors = [
+  "#FF7F50",
+  "#40E0D0",
+  "#FFF8DC",
+  "#FEA3AA",
+  "#F3E8EA",
+  "#ADF802",
+  "#B0BF1A",
+  "#C2E5D3",
+];
 
 const ProjectsCard = ({ title, des, src, github, live, ts = [] }) => {
   return (
@@ -34,11 +44,14 @@ const ProjectsCard = ({ title, des, src, github, live, ts = [] }) => {
           <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300 mb-2">
             {des}
           </p>
-          {ts.map((e) => (
-            <button className="pt-1 pb-1 pl-2 pr-2 mb-2 bg-designColor text-white mr-3 rounded-xl">
-              {e}
-            </button>
-          ))}
+          <div className="flex flex-wrap">
+            {ts.map((e, i) => (
+              <p
+                style={{ color: colors[i] }}
+                className="mb-2  text-white mr-3 rounded-xl color font-bold }"
+              >{`#${e}`}</p>
+            ))}
+          </div>
         </div>
       </div>
     </div>

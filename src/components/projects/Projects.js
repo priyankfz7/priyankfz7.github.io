@@ -7,6 +7,7 @@ import {
   unit5,
   unit6,
   list,
+  codepencil,
 } from "../../assets/index";
 import ProjectsCard from "./ProjectsCard";
 
@@ -23,6 +24,21 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
+          title="CodePencil Code Editor"
+          des="codepencil is a online code editor where you can create coding rooms and with the room id other users can also join you and code simultaneously."
+          src={codepencil}
+          ts={[
+            "React Js",
+            "Node ",
+            "Express",
+            "MongoDb",
+            "Socket.io",
+            "codemirror",
+          ]}
+          github="https://github.com/priyankfz7/EMT-assignment"
+          live="https://codepencil.vercel.app/"
+        />
         <ProjectsCard
           title="SkinStore Clone"
           des="SkinStore, Inc. is a leading makeup retailer offering thousand
